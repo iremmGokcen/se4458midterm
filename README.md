@@ -136,3 +136,8 @@ GET /api/v1/bill?subscriberNo=1001&month=4&year=2025
 A visual representation of the database structure used in this project:
 
 ![ER Diagram](./erdiagram.jpeg)
+
+```
+
+## Project Record
+(https://drive.google.com/file/d/1YsaOZ9fMEQKQC89AXb5cLac7HVBq701m/view?usp=sharing)
